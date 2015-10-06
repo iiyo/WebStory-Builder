@@ -1,0 +1,6 @@
+[submodule "libs/engine"]
+	path = libs/engine
+	url = git@github.com:iiyo/WebStory-Engine.git
+[submodule "libs/ui"]
+	path = libs/ui
+	url = git@github.com:iiyo/MO5-UI.git
